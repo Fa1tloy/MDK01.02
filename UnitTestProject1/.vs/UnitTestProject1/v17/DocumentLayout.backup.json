@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u0411\u043E\u0439\u043A\u043E\u0432\\P30\\UnitTestProject1\\",
+  "WorkspaceRootPath": "C:\\Users\\st56\\source\\repos\\MDK01.02\\UnitTestProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B62E92FA-FE0D-4111-A1F1-492F0D87A1A9}|UnitTestProject1\\UnitTestProject1.csproj|d:\\\u0431\u043E\u0439\u043A\u043E\u0432\\p30\\unittestproject1\\unittestproject1\\tlistoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B62E92FA-FE0D-4111-A1F1-492F0D87A1A9}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\tlistoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B62E92FA-FE0D-4111-A1F1-492F0D87A1A9}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\st56\\source\\repos\\MDK01.02\\UnitTestProject1\\unittestproject1\\tcollege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62E92FA-FE0D-4111-A1F1-492F0D87A1A9}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\tcollege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EAE1965-1888-4CAB-8EC7-023C1AD8F4FC}|MyLib\\MyLib.csproj|d:\\\u0431\u043E\u0439\u043A\u043E\u0432\\p30\\unittestproject1\\mylib\\listoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EAE1965-1888-4CAB-8EC7-023C1AD8F4FC}|MyLib\\MyLib.csproj|C:\\Users\\st56\\source\\repos\\MDK01.02\\UnitTestProject1\\mylib\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAE1965-1888-4CAB-8EC7-023C1AD8F4FC}|MyLib\\MyLib.csproj|solutionrelative:mylib\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE1965-1888-4CAB-8EC7-023C1AD8F4FC}|MyLib\\MyLib.csproj|C:\\Users\\st56\\source\\repos\\MDK01.02\\UnitTestProject1\\mylib\\listoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EAE1965-1888-4CAB-8EC7-023C1AD8F4FC}|MyLib\\MyLib.csproj|solutionrelative:mylib\\listoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62E92FA-FE0D-4111-A1F1-492F0D87A1A9}|UnitTestProject1\\UnitTestProject1.csproj|C:\\Users\\st56\\source\\repos\\MDK01.02\\UnitTestProject1\\unittestproject1\\tlistoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62E92FA-FE0D-4111-A1F1-492F0D87A1A9}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\tlistoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,47 +25,72 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 505,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 465,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ListOperation.cs",
-              "DocumentMoniker": "D:\\\u0411\u043E\u0439\u043A\u043E\u0432\\P30\\UnitTestProject1\\MyLib\\ListOperation.cs",
-              "RelativeDocumentMoniker": "MyLib\\ListOperation.cs",
-              "ToolTip": "D:\\\u0411\u043E\u0439\u043A\u043E\u0432\\P30\\UnitTestProject1\\MyLib\\ListOperation.cs",
-              "RelativeToolTip": "MyLib\\ListOperation.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T09:09:55.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TListOperation.cs",
-              "DocumentMoniker": "D:\\\u0411\u043E\u0439\u043A\u043E\u0432\\P30\\UnitTestProject1\\UnitTestProject1\\TListOperation.cs",
-              "RelativeDocumentMoniker": "UnitTestProject1\\TListOperation.cs",
-              "ToolTip": "D:\\\u0411\u043E\u0439\u043A\u043E\u0432\\P30\\UnitTestProject1\\UnitTestProject1\\TListOperation.cs",
-              "RelativeToolTip": "UnitTestProject1\\TListOperation.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T09:08:20.919Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TListOperation.cs",
+              "DocumentMoniker": "C:\\Users\\st56\\source\\repos\\MDK01.02\\UnitTestProject1\\UnitTestProject1\\TListOperation.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\TListOperation.cs",
+              "ToolTip": "C:\\Users\\st56\\source\\repos\\MDK01.02\\UnitTestProject1\\UnitTestProject1\\TListOperation.cs",
+              "RelativeToolTip": "UnitTestProject1\\TListOperation.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwDMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:33:51.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCollege.cs",
+              "DocumentMoniker": "C:\\Users\\st56\\source\\repos\\MDK01.02\\UnitTestProject1\\UnitTestProject1\\TCollege.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\TCollege.cs",
+              "ToolTip": "C:\\Users\\st56\\source\\repos\\MDK01.02\\UnitTestProject1\\UnitTestProject1\\TCollege.cs",
+              "RelativeToolTip": "UnitTestProject1\\TCollege.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:00:52.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "College.cs",
+              "DocumentMoniker": "C:\\Users\\st56\\source\\repos\\MDK01.02\\UnitTestProject1\\MyLib\\College.cs",
+              "RelativeDocumentMoniker": "MyLib\\College.cs",
+              "ToolTip": "C:\\Users\\st56\\source\\repos\\MDK01.02\\UnitTestProject1\\MyLib\\College.cs",
+              "RelativeToolTip": "MyLib\\College.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:00:23.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListOperation.cs",
+              "DocumentMoniker": "C:\\Users\\st56\\source\\repos\\MDK01.02\\UnitTestProject1\\MyLib\\ListOperation.cs",
+              "RelativeDocumentMoniker": "MyLib\\ListOperation.cs",
+              "ToolTip": "C:\\Users\\st56\\source\\repos\\MDK01.02\\UnitTestProject1\\MyLib\\ListOperation.cs",
+              "RelativeToolTip": "MyLib\\ListOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:09:55.376Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 95,
+          "DockedHeight": 135,
           "SelectedChildIndex": -1,
           "Children": [
             {
